@@ -1,0 +1,5 @@
+Os três comandos mais comuns no dia a dia de um desenvolvedor são:
+
+1- Git add -A 
+2- git commit -m " descrição do commit  "
+3- git push 
