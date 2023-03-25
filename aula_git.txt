@@ -1,1 +1,1 @@
-" Helo World "
+Texto criado no nova branch, testando condições de conflito ao realizar o git merge
