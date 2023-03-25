@@ -21,3 +21,6 @@ git push -u origin main
 git remote -v -> verifica diretório remoto criado 
 git remote rm endereço url -> apaga o diretório 
 
+git branch nome da branch -> cria um branch com um nome que vc a nomear
+git checkout nome da branch -> muda para outra branch 
+ 
