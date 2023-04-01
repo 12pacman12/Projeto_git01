@@ -26,3 +26,10 @@ git checkout nome da branch -> muda para outra branch
 
 git merge nome da branch -> traz os dados criados de outra branch para a branch main (mas tem que estar na branch main fazer isso)
   
+git push origin nome da branch -> faz um push da branch secundária 
+
+git pull origin nome da branch -> faz um pull da branch secundária (estar dentro da branch secundária)
+
+git checkout -b nome da branch -> cria nova branch e ja altera para ela 
+
+
